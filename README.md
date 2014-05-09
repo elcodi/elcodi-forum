@@ -15,7 +15,9 @@ You can subscribe to this repository to be aware
 of the latest developments or responses.
 
 Book Club Forum
-------------------------
+---------------
+
+[Enter the forum](https://github.com/elcodi/elcodi-forum/issues?labels=Book+club)
 
 In Elcodi we have just started a new Book Club. 
 One of the tools that we will have to discuss the 
@@ -27,7 +29,9 @@ Every week we will discuss here the chapter read
 by people, sharing ideas, code and good development :)
 
 Elcodi Forum
-------------------
+------------
+
+[Enter the forum](https://github.com/elcodi/elcodi-forum/issues?labels=Elcodi+project)
 
 We also provide a forum to discuss all project development. 
 Our mission is not to provide a full stack framework 
